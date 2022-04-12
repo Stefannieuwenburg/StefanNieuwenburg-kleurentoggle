@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(173, 173, 173);
+    background-color: rgb(255, 255, 255);
 }
 
 nav {
@@ -20,10 +20,17 @@ li {
     margin-bottom: 3px;
     width: 200px;
     font-family: arial;
+    border-width: 20px;
+}
+.hamburgermenu{
+    width:50px;
+    background-color: #fff;
+    padding: 2px;
+    border-radius: 20px;
 }
 
 .home {
-    background-color: gray;
+    background-color: rgb(92, 91, 91);
 }
 
 .red {
